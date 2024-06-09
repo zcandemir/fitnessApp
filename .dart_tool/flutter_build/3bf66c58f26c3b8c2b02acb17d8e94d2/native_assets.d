@@ -1,0 +1,1 @@
+ /Users/zafercandemir/Documents/GitHub/fitnessApp/.dart_tool/flutter_build/3bf66c58f26c3b8c2b02acb17d8e94d2/native_assets.yaml: 

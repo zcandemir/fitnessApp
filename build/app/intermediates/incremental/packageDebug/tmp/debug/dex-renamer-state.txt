@@ -1,0 +1,4 @@
+#Sun Jun 09 18:05:44 TRT 2024
+base.0=/Users/zafercandemir/Documents/GitHub/fitnessApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
